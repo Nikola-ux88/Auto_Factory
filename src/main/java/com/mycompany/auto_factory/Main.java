@@ -16,6 +16,10 @@ public class Main {
         AudiA3.setCcm(2000);
         
         AudiA3.printAttributes();
+        
+        Car FiatPunto = new Car();
+        
+        
                 
         
     
