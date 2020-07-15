@@ -19,6 +19,20 @@ public class Main {
         
         Car FiatPunto = new Car();
         
+        FiatPunto.setModel("Fiat Panda");
+        FiatPunto.setBulidYear(2002);
+        FiatPunto.setColor("Green");
+        
+        FiatPunto.printAttributes();
+        
+        Car Lada = new Car();
+        
+        Lada.setModel("Lada Niva");
+        Lada.setMaxSpeed(118);
+        
+        Lada.printAttributes();
+        
+        
         
                 
         
